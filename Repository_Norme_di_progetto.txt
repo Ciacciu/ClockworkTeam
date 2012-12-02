@@ -1,0 +1,28 @@
+02/12/2012
+
+Per lo svolgimento di qualsiasi progetto complesso è necessario l'utilizzo di un repository in cui tenere la documentazione e il codice tenendo traccia dello sviluppo.
+
+1. Progetto: 
+L'indirizzo web cui fa riferimento il progetto è: { github.com/Ciacciu/ClockworkTeam } 
+/* Potendo Cercherei modo di cambiare questo link, ne parliamo insieme */
+
+
+Struttura : 
+Root -> Documenti
+Root-> Source
+	Documenti -> template
+	Documenti -> Immagini
+	Documenti -> RR
+	Documenti -> RP
+	Documenti -> RQ
+	Documenti -> RA
+
+Ogni sottocartella riguardante le revisioni-> Interni/ Esterni (Possibilmente cartella con i file .tex )
+
+Contenuto di source: il codice, che verrà suddiviso in ulteriori sottocartelle in seguito alla fase di progettazione
+
+La cartella documenti contiene: 
+ - in template i file Latex che definiscono la struttura comune a tutti i documenti.
+ - in Immagini tutte le immagini da inserire nei documenti. ( Se ci sarà una sezione apposta per le immagini fare riferimento ad essa) 
+ - Ciascuna sottocartella di revisione conterrà tutti i documenti utili alla revisione, suddivisi tra documenti da utilizzare internamente al gruppo di lavoro, documenti esterni volti al committente ( o proponente? ) [ E se lo inseriamo i file .tex : Personalmente sono contrario ma preferirei sentire le opinioni ]
+
